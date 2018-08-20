@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/dao/ChildrenMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/dao/WifeMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/mapping/ChildrenMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/mapping/WifeMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/model/Children.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/model/ChildrenExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/model/Wife.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wang/model/WifeExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mybatis.cfg.xml" charset="GBK" />
+  </component>
+</project>
